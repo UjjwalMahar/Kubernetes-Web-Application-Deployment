@@ -1,10 +1,8 @@
-Sure! Here's a simple README file for the project:
-
----
-
 # Kubernetes Web Application Deployment
 
 This project demonstrates how to deploy a simple web application using Docker and Kubernetes. The application is containerized using Docker, and Kubernetes is used to orchestrate the deployment, scaling, and management of the application.
+
+![website](assets/Screenshot 2023-10-18 152110.png)
 
 ## Steps
 
